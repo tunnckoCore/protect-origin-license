@@ -9,8 +9,6 @@ Meant not only for software, hm.
 ---
 
 
-Any use, reproduction and/or distribution in Source and Object forms of this licensed work is permitted under the terms and conditions of this Protect Origin License and constitutes your acceptance of this License.
-
 ## Definitions
 - "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
 
