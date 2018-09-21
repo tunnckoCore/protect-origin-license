@@ -1,10 +1,12 @@
-# protect-origin-license
-Draft of "Protect Origin License" -  a set of licenses: Permissive, Weak Copyleft and Private/Commerical one.
+# Draft of Protect Origin Licenses
 
 Meant for meaningful competition, improvement, easier discovery and protecting the original version.
+
 Inspired by various free and non-free software licenses such as Apache License, Eclipse Public License, Mozilla Public License, Artistic License 2.0 and BSD.
 
 Meant not only for software, hm.
+
+Licensed under that same draft license? :D
 
 ---
 
