@@ -10,6 +10,9 @@ Licensed under that same draft license.
 
 ---
 
+## Preamble
+
+... add the thoughts and reasons ...
 
 ## Definitions
 - "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
@@ -37,12 +40,9 @@ Licensed under that same draft license.
 
 2. The Use of the Transformed form of the Licensed Work must reproduce in the documentation and/or in other materials provided with the distribution: a) the copyright notice and b) this License or at least its name (or identifier), link to freely available copy of it and its version. 
 
-<!-- 
-3. Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the Licensed Work by you to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such contributions. -->
+<!-- 3. Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the Licensed Work by you to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such contributions. -->
 
 3. You must try to contribute the Modified Work back to the Licensor for inclusion in the original version of the Licensed Work. For the purposes of this definition, "try to contribute ... back" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Licensed Work.
-
-<!-- Above Permissive; including the below is Weak Copyleft -->
 
 4. If above condition is not met or can't happen for whatever reason, including but not limited to fail in communication or self preferences in both sides, then you must choose between the following
 - a) purchise private/commercial license, if any available; or
@@ -51,4 +51,18 @@ Licensed under that same draft license.
   + ii). you must state and/or link the reasons for that case to happen and document all the differences from the original version of the Licensed Work; and
   + iii) you are agree that your failed-to-be-accepted changes may be included in the original version of the Licensed Work in any future point of time, by the Licensor of or contributors to Licensed Work. In such event, you will be notified so you can decide to either start using the original version again or continue maintaining your own copy.
 
-<!-- you must follow all conditions below for that Modified Work: -->
+## Grant Copyright License
+
+...
+
+## Grant Patent License
+
+...
+
+## No warranties, no liability, no trademarks
+
+...
+
+## License for this License
+
+It is licensed under itself. Any use and reproductions are permitted provided that you follow this License.
