@@ -2,11 +2,11 @@
 
 Meant for meaningful competition, improvement, easier discovery and protecting the original version.
 
-Inspired by various free and non-free software licenses such as Apache License, Eclipse Public License, Mozilla Public License, Artistic License 2.0 and BSD.
+Inspired by various free and non-free software licenses such as NASA's License, Open Software License, Apache License, Eclipse Public License, Mozilla Public License, Artistic License 2.0 and BSD.
 
 Meant not only for software, hm.
 
-Licensed under that same draft license? :D
+Licensed under that same draft license.
 
 ---
 
