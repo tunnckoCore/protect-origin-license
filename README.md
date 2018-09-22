@@ -45,10 +45,13 @@ Licensed under that same draft license.
 3. You must try to contribute the Modified Work back to the Licensor for inclusion in the original version of the Licensed Work. For the purposes of this definition, "try to contribute ... back" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Licensed Work.
 
 4. If above condition is not met or can't happen for whatever reason, including but not limited to fail in communication or self preferences in both sides, then you must choose between the following
-- a) purchise private/commercial license, if any available; or
+- a) purchise private/commercial license, if any available:
+  + i) check if somewhere somehow is stated that such license is possible; or
+  + ii) contact directly the Licensor or its representatives to get such individual license; or
+  + iii) if such license not exist or is declined for whatever reason, you must follow condition 4.b from this License.
 - b) apply all of the following for that Modified Work:
-  + i) must be publicly available and released under this same License. (Make note that you can license under any terms you choose the other files and/or parts that are entirely your own work and do not contain code from the Licensed Work. You are not forced to release your whole application, program, derivative work and/or larger work, only the Modified Work); and
-  + ii). you must state and/or link the reasons for that case to happen and document all the differences from the original version of the Licensed Work; and
+  + i) must make it publicly available and released under this same License. (Make note that you can license under any terms you choose the other files and/or parts that are entirely your own work and do not contain code from the Licensed Work. You are not forced to release your whole application, program, derivative work and/or larger work, only the Modified Work); and
+  + ii) you must state and/or link the reasons for that case to happen and document all the differences from the original version of the Licensed Work; and
   + iii) you are agree that your failed-to-be-accepted changes may be included in the original version of the Licensed Work in any future point of time, by the Licensor of or contributors to Licensed Work. In such event, you will be notified so you can decide to either start using the original version again or continue maintaining your own copy.
 
 ## Grant Copyright License
