@@ -13,6 +13,7 @@ Licensed under that same draft license.
 ## Preamble
 
 ... add the thoughts and reasons ...
+_For now, see [Issue #1](https://github.com/tunnckoCore/protect-origin-license/issues/1)_
 
 ## Definitions
 - "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
